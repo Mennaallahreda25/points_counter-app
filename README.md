@@ -1,6 +1,8 @@
 # points_counter_app
 
-A new Flutter project.
+this is a simple application using Flutter framework and dart to count points
+![image](https://github.com/user-attachments/assets/9a36f4b9-dfc8-43c0-a8e0-727c73278f49)
+
 
 ## Getting Started
 
